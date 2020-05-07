@@ -14,3 +14,5 @@
 下载地址：https://sourceforge.net/projects/picsim/files/picsim/picsimlab-0.8/
 具体配置查看
 有道笔记 CuteCom的使用.note
+
+本例打开串口COM4,那么CuteCom打开COM3，然后运行项目即可通信
